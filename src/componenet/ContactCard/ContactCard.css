@@ -4,8 +4,11 @@
     border : 1px solid #ccc;
     border-radius: 10px;
     margin: 15px auto;
-    background-color:rgb(195, 230, 244);
+   
     cursor: pointer;
+    background-color: #4158D0;
+    background-image: linear-gradient(45deg, #4158D0 0%, #C850C0 22%, #FFCC70 49%, #ffffff 75%, #ffffff 100%);
+
     
 }
 .contact-card:hover{
