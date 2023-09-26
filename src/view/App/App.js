@@ -42,7 +42,7 @@ function App() {
                     </div>
                 </div>
                 {
-                    contacts.length === 0 ? <h2 className="text-center">No Contact found </h2> : null
+                    contacts.length === 0 ? <h2 className="text-center no-found">No Contact found </h2> : null
                 }
             </div>
         </>
